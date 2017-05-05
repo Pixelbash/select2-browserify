@@ -9,7 +9,7 @@
     "devDependencies": {},
     "lib": "lib",
     "main": "lib/select2.js",
-    "repository": "git://github.com/loicmahieu/select2-browserify.git",
+    "repository": "git://github.com/pixelbash/select2-browserify.git",
     "version": "4.0.3",
     "browserify": {
         "dependencies": {},
