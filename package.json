@@ -10,7 +10,7 @@
     "lib": "lib",
     "main": "lib/select2.js",
     "repository": "git://github.com/loicmahieu/select2-browserify.git",
-    "version": "3.4.5",
+    "version": "4.0.3",
     "browserify": {
         "dependencies": {},
         "main": "lib/select2.js"
